@@ -10,7 +10,7 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    
+    git clone https://github.com/AliRazaLilani/laravel8-sample-project.git    
 
 Switch to the repo folder
 
@@ -44,8 +44,8 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:gothinkster/laravel-demo-invision.git
-    cd laravel-demo-invision
+    git clone https://github.com/AliRazaLilani/laravel8-sample-project.git
+    cd laravel8-sample-project
     composer install
     cp .env.example .env
     php artisan key:generate
